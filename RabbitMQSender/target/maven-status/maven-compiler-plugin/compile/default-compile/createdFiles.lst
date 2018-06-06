@@ -1,0 +1,5 @@
+com\rmq\sender\controller\RabbitMQWebController.class
+com\rmq\sender\SpringBootHelloWorldApplication.class
+com\rmq\sender\config\RabbitMQConfig.class
+com\rmq\sender\model\Employee.class
+com\rmq\sender\service\RabbitMQSender.class
