@@ -1,0 +1,18 @@
+/*package com.szuul.service;
+
+import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.szuul.model.Audit;
+
+@FeignClient("TheZuul")
+public interface IAuditService {
+
+  
+  *//** sending audit to mongoDb
+   * @param audit
+   *//*
+  @PostMapping("/MysqlBank/createAudit")
+  public void sendAuditToMongo(Audit audit);
+}
+*/
